@@ -13,4 +13,3 @@ This is a social media server built with Node.js, Express, and MongoDB.
 
 - Node.js
 - MongoDB
-# Social-Media-Server
