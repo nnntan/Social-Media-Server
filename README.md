@@ -1,5 +1,7 @@
 # Social-Media-Server
 
+## NGUYEN MINH TAN
+
 This is a social media server built with Node.js, Express, and MongoDB.
 
 ## Features
